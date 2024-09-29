@@ -6,7 +6,7 @@ export default function Home() {
       <main className="flex flex-col gap-8 row-start-2 items-center sm:items-start">
         <Image
           src="AppIcon.png"
-          alt="Next.js logo"
+          alt="Pool Scores App Icon"
           width={180}
           height={38}
           priority
