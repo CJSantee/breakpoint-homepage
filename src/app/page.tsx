@@ -15,7 +15,7 @@ export default function Home() {
         <span>Pool Scores</span>
       </main>
       <footer className="bg-white rounded-lg shadow m-4 dark:bg-neutral-900 sticky top-[100vh]">
-        <div className="w-full mx-auto max-w-screen-xl p-4 md:flex md:items-center md:justify-between">
+        <div className="w-full mx-auto max-w-screen-xl p-4">
           <span className="text-sm text-gray-500 sm:text-center dark:text-gray-400">
             © 2024{" "}
             <a href="https://colinjsantee.com/" className="hover:underline">
